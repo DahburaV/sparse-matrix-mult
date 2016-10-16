@@ -22,10 +22,6 @@ Created: 10/08/2016
 If method of storage is not given, storage = array by default.
 If method of sorting is not given, sort = nlogn by default.
 
--To test:
-	
-	To test different file cases using provided test.sh:
-	sh test.sh
 
 
 
